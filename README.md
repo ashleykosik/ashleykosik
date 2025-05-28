@@ -1,10 +1,10 @@
-👋 Hi, I’m @ashleykosik
-10 years of customer service and event management experience with a Entertainment Business Bachelor's Degree from Full Sail University
-Grad of the Bright Paths programming bootcamp sponsored by Perficient. 
+👋 Hi, I’m @ashleykosik</br>
+10 years of customer service and event management experience with a Entertainment Business Bachelor's Degree from Full Sail University</br>
+Grad of the Bright Paths programming bootcamp sponsored by Perficient. </br>
 QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 🏳️‍🌈PRISM🌻gardeners🧶craft club
 
-Values: 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & Youth Programs 
-former Manager of [The Robot Garage](https://www.therobotgarage.com "") 
+Values: 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & Youth Programs </br>
+former Manager of [The Robot Garage](https://www.therobotgarage.com "") </br>
 former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robotics/frc "more info on the sport for the mind")
 
 🌱 I’m currently learning automation testing with selenium
