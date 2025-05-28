@@ -1,6 +1,6 @@
-👋 Hi, I’m @ashleykosik</br>
+👋 Hi, I’m @ashleykosik *banner here* </br>
 10 years of customer service and event management experience with a Entertainment Business Bachelor's Degree </br>
-Grad of the Bright Paths programming bootcamp sponsored by Perficient. </br>
+Grad of the Bright Paths 2023 programming bootcamp sponsored by Perficient. </br>
 QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 🏳️‍🌈PRISM🌻gardeners🧶craft club
 
 Values: 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & Youth Programs </br>
@@ -24,7 +24,13 @@ former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robo
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleykosik)](https://github.com/anuraghazra/github-readme-stats)
 
-Notable Projects
+View my digital project scrapbook: [ashleykosik.github.io](https://ashleykosik.github.io/)
+
+My capstone project for the Bright Paths Program, Whimify, is an app that can track a user's progress in a variety of hobbies. It was hard coded for the categories Movies, Video Games, TV Shows, and Books. In the future I would like to make it possible for user's to create custom categories and change the colors of the UI. Using React I could make the layout collapsable and more mobile friendly. 
+
+While learning java I made the NotesApp from a course and expanded on that concept to make the ResterauntOrdersApp
+
+While learning React I followed a course to make the TodayILearnedFacts app
 
 <!---
 ashleykosik/ashleykosik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
