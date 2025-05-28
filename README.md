@@ -1,20 +1,13 @@
-- 👋 Hi, I’m @ashleykosik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @ashleykosik
+10 years of customer service and event management experience with a Entertainment Business Bachelor's Degree from Full Sail University
+Grad of the Bright Paths programming bootcamp sponsored by Perficient. 
+QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 🏳️‍🌈PRISM🌻gardeners🧶craft club
 
-Ashley Kosik has 10 years of experience working as the face of businesses, delighting customers and devising solutions with short turn-around time. 
+Values: 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & Youth Programs 
+former Manager of [The Robot Garage](https://www.therobotgarage.com "") 
+former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robotics/frc "more info on the sport for the mind")
 
-During the span of 16 weeks in the Bright Paths program, Ashley learned full stack development, produced two full stack applications, and collaborated with peers to learn in an agile fashion. 
-
-Current Position: QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 🏳️‍🌈PRISM🌻gardeners🧶craft club
-
-Values: Direct Communication, Learning, Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & Youth Programs (former Manager of [The Robot Garage](https://www.therobotgarage.com "") former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robotics/frc "more info on the sport for the mind")
-
-Currently Learning: automation testing with selenium
+🌱 I’m currently learning automation testing with selenium
 
 **Connect with me: 📫** ashley.kosik@gmail.com
 <p align="left">
@@ -30,6 +23,9 @@ Currently Learning: automation testing with selenium
 </p>
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleykosik)](https://github.com/anuraghazra/github-readme-stats)
+
+Notable Projects
+
 <!---
 ashleykosik/ashleykosik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
