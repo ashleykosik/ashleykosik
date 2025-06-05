@@ -2,6 +2,8 @@
 
 ## QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 
 
+**2023 Girl Develop It Hackathon Winner:** <em>The Dakota Project</em>
+
 **Values:** 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & 💪Youth Programs </br>
 
 🌱 I’m currently learning automation testing with selenium
@@ -13,7 +15,7 @@
 <a href="https://www.linkedin.com/in/ashleykosik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashleykosik" height="30" width="40" /></a>
 </p>
 
-**Languages:**
+### **Languages:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -25,7 +27,9 @@
 
 View my digital project scrapbook: [ashleykosik.github.io](https://ashleykosik.github.io/)
 
-## **My Projects:**
+## **Projects:**
+<em>The Dakota Project</em>, an AI chatbot to help break down large projects into smaller steps with schedule creation to meet long term deadlines.</br>
+
 <span style="color:blue"><em>Whimify</em></span>, My first app & capstone project for the Bright Paths Program. Whimify can track a user's progress in a variety of hobbies. </br>
 In the future I would like to make it possible for users to create custom categories, change the colors of the UI and make the layout more mobile friendly. </p>
 
