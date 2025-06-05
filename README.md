@@ -1,16 +1,15 @@
 <img src="https://i.ibb.co/Lh8vXvdw/Cloud-Vintage-Banner.png" alt="Full Stack Developer" width="" height=""/>
 
-QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 🏳️‍🌈PRISM🌻gardeners🧶craft club
+## QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 🏳️‍🌈PRISM🌻gardeners🧶craft club
+former Manager of [The Robot Garage](https://www.therobotgarage.com "") | former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robotics/frc "more info on the sport for the mind")
 
-Values: 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & Youth Programs </br>
-former Manager of [The Robot Garage](https://www.therobotgarage.com "") </br>
-former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robotics/frc "more info on the sport for the mind")
+**Values:** 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & Youth Programs </br>
 
 🌱 I’m currently learning automation testing with selenium
 
 📫 `ashley.kosik@gmail.com`</br>
-</br>
-**Resume:** 
+
+### **Resume:** 
 <p align="left">
 <a href="https://www.linkedin.com/in/ashleykosik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashleykosik" height="30" width="40" /></a>
 </p>
@@ -27,11 +26,13 @@ former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robo
 
 View my digital project scrapbook: [ashleykosik.github.io](https://ashleykosik.github.io/)
 
-My capstone project for the Bright Paths Program, Whimify, is an app that can track a user's progress in a variety of hobbies. It was hard coded for the categories Movies, Video Games, TV Shows, and Books. In the future I would like to make it possible for user's to create custom categories and change the colors of the UI. Using React I could make the layout collapsable and more mobile friendly. 
+## **My Projects:**
+<span style="color:blue"><em>Whimify</em></span>, My first app & capstone project for the Bright Paths Program. Whimify can track a user's progress in a variety of hobbies. </br>
+In the future I would like to make it possible for users to create custom categories, change the colors of the UI and make the layout more mobile friendly. </p>
 
-While learning java I made the NotesApp from a course and expanded on that concept to make the ResterauntOrdersApp
+<p>While learning Java I made the <span style="color:red"><em>NotesApp</em></span> from a course and expanded on that concept to make the  <span style="color:red"><em>ResterauntOrdersApp</em></span></p>
 
-While learning React I followed a course to make the TodayILearnedFacts app
+While learning React I followed a course to make the <em>TodayILearnedFacts</em> app
 
 <!---
 ashleykosik/ashleykosik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
