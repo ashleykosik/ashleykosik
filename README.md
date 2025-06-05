@@ -1,9 +1,8 @@
 <img src="https://i.ibb.co/Lh8vXvdw/Cloud-Vintage-Banner.png" alt="Full Stack Developer" width="" height=""/>
 
-## QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 🏳️‍🌈PRISM🌻gardeners🧶craft club
-former Manager of [The Robot Garage](https://www.therobotgarage.com "") | former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robotics/frc "more info on the sport for the mind")
+## QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 
 
-**Values:** 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & Youth Programs </br>
+**Values:** 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & 💪Youth Programs </br>
 
 🌱 I’m currently learning automation testing with selenium
 
