@@ -1,6 +1,5 @@
 <img src="https://i.ibb.co/Lh8vXvdw/Cloud-Vintage-Banner.png" alt="Full Stack Developer" width="" height=""/>
-10 years of customer service and event management experience with a Entertainment Business Bachelor's Degree </br>
-Grad of the Bright Paths 2023 programming bootcamp sponsored by Perficient. </br>
+
 QA @ [Perficient](https://www.perficient.com "more information on the digital consulting company") 🏳️‍🌈PRISM🌻gardeners🧶craft club
 
 Values: 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & Youth Programs </br>
