@@ -8,7 +8,8 @@ former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robo
 
 🌱 I’m currently learning automation testing with selenium
 
-📫 ashley.kosik@gmail.com</br>
+📫 'ashley.kosik@gmail.com'</br>
+</br>
 **Resume:** 
 <p align="left">
 <a href="https://www.linkedin.com/in/ashleykosik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashleykosik" height="30" width="40" /></a>
