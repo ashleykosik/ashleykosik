@@ -8,7 +8,7 @@ former student and mentor of [FIRST Robotics](https://www.firstinspires.org/robo
 
 🌱 I’m currently learning automation testing with selenium
 
-📫 'ashley.kosik@gmail.com'</br>
+📫 `ashley.kosik@gmail.com`</br>
 </br>
 **Resume:** 
 <p align="left">
