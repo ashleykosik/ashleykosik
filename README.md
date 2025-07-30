@@ -19,8 +19,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/NodeJS.svg" alt="node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/refs/heads/master/svg/React.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/NodeJS.svg" alt="node.js" width="40" height="40"/>
 </p>
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleykosik)](https://github.com/anuraghazra/github-readme-stats)
