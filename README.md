@@ -4,9 +4,7 @@
 
 **2023 Girl Develop It Hackathon Winner:** <em>The Dakota Project</em>
 
-**Values:** 🫶 Community, 🧠Neuroinclusivity, :accessibility: Accessibility, & 💪Youth Programs </br>
-
-🌱 I’m currently learning automation testing with selenium
+🌱 I’m currently looking for my next project
 
 📫 `ashley.kosik@gmail.com`</br>
 
@@ -21,16 +19,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/NodeJS.svg" alt="node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/refs/heads/master/svg/React.svg" alt="react" width="40" height="40"/>
 </p>
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleykosik)](https://github.com/anuraghazra/github-readme-stats)
 
-View my digital project scrapbook: [ashleykosik.github.io](https://ashleykosik.github.io/)
 
 ## **Projects:**
 <em>The Dakota Project</em>, an AI chatbot to help break down large projects into smaller steps with schedule creation to meet long term deadlines.</br>
 
-<span style="color:blue"><em>Whimify</em></span>, My first app & capstone project for the Bright Paths Program. Whimify can track a user's progress in a variety of hobbies. </br>
+<span style="color:blue"><em>Whimify</em></span>, My first app & capstone project for the Bright Paths Program. Whimify can track a user's progress in a variety of hobbies.
 In the future I would like to make it possible for users to create custom categories, change the colors of the UI and make the layout more mobile friendly. </p>
 
 <p>While learning Java I made the <span style="color:red"><em>NotesApp</em></span> from a course and expanded on that concept to make the  <span style="color:red"><em>ResterauntOrdersApp</em></span></p>
